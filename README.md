@@ -149,7 +149,7 @@ Ausführliche Anleitung: [Installation Schritt für Schritt](https://github.com/
 
 > SmallTime 2027 ist eine kommerzielle Software und **keine Open-Source-Software**: Dass die Dateien hier öffentlich sind, erlaubt keine Weitergabe oder Veränderung. Es gelten die [Lizenzbedingungen](LICENSE).
 
-- **Lizenz:** privat bis 2 Personen dauerhaft gratis. Firmen, Vereine, Nonprofit-Organisationen, öffentliche Stellen und Selbständige brauchen immer einen Lizenzschlüssel (pro aktiver Person und Monat gemäss Preisliste), siehe [LICENSE](LICENSE).
+- **Lizenz:** privat bis 2 Personen dauerhaft gratis. Firmen, Vereine, Nonprofit-Organisationen, öffentliche Stellen und Selbständige brauchen immer einen Lizenzschlüssel (pro aktiver Person und Monat). Die aktuellen Preise stehen auf [small.li](https://small.li). Details: [LICENSE](LICENSE).
 - **Keine Gewährleistung, keine Haftung:** Die Software wird «wie besehen» geliefert. Jede Haftung ist im gesetzlich grösstmöglichen Umfang ausgeschlossen. Du bist selbst verantwortlich für Datensicherung, die Prüfung aller Berechnungen und die Einhaltung gesetzlicher Vorschriften (z. B. Arbeitsgesetz, Datenschutz).
 - **Fremdbibliotheken:** SmallTime nutzt Open-Source-Bibliotheken unter ihren eigenen Lizenzen, aufgeführt in [THIRD-PARTY-LICENSES.md](THIRD-PARTY-LICENSES.md).
 
