@@ -129,7 +129,19 @@ Alle **Personen, Zeiten, Absenzen, Saldi, Tagesrapporte und Archiv-PDFs** werden
 
 ## Kurz zur Installation
 
-Du brauchst [Node.js](https://nodejs.org) Version **26**. Dieses Repository herunterladen, `.env.example` als `.env` kopieren und ausfüllen, dann im Ordner `npm install --omit=dev` und `npm start` ausführen und <http://localhost:55000> öffnen (Start-Login **admin** / **admin1234**). Alles Weitere Schritt für Schritt: [Installation](https://github.com/it-m-h/SmallTime-27/wiki/Server-Installation-Schritt-fuer-Schritt).
+1. **Node.js 26** installieren: <https://nodejs.org>
+2. **`.env` erstellen:** Die Datei `.env.example` kopieren und die Kopie `.env` nennen. Darin zwei Zeilen ausfüllen:
+   - `SESSION_SECRET=` einen langen, zufälligen Schlüssel.
+   -  So erzeugst du ihn (im Ordner, nachdem Node.js installiert ist)
+   - `node -e "console.log(require('crypto').randomBytes(48).toString('base64'))"`
+   -  Die ausgegebene Zeile hinter `SESSION_SECRET=` einfügen (ohne Leerzeichen).
+   - `FRONTEND_ORIGIN=` die Adresse im Browser, z.B.: `http://localhost:55000`
+4. Im Ordner ausführen: `npm install --omit=dev`
+5. Starten: `npm start`
+   *Beim ersten Start kann es etwas länger dauern, wenn Daten aus SmallTime PHP übernommen werden (Ordner `convert`).*
+6. Im Browser <http://localhost:55000> öffnen und anmelden mit **admin** / **admin1234**. Danach das Passwort ändern.
+
+Ausführliche Anleitung: [Installation Schritt für Schritt](https://github.com/it-m-h/SmallTime-27/wiki/Server-Installation-Schritt-fuer-Schritt).
 
 ---
 
