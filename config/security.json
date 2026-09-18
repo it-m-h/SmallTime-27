@@ -1,0 +1,29 @@
+{
+  "rateLimits": {
+    "login": {
+      "limit": 5,
+      "windowMinutes": 5
+    },
+    "passwordChange": {
+      "limit": 5,
+      "windowMinutes": 15
+    },
+    "upload": {
+      "limit": 20,
+      "windowMinutes": 10
+    }
+  },
+  "allowedCountries": [],
+  "countryHeaders": [
+    "Cf-Ipcountry",
+    "Cloudfront-Viewer-Country",
+    "X-Country-Code",
+    "X-Geo-Country",
+    "X-Country"
+  ],
+  "allowedIpRanges": [],
+  "blockedIpRanges": [],
+  "allowRegistration": false,
+  "allowLocalhost": false,
+  "bcryptCost": 10
+}

@@ -1,0 +1,25 @@
+{
+  "port": 55000,
+  "uploads": {
+    "allowedExtensions": [
+      ".bmp",
+      ".csv",
+      ".gif",
+      ".jpeg",
+      ".jpg",
+      ".json",
+      ".md",
+      ".png",
+      ".txt",
+      ".webp",
+      ".zip",
+      ".pdf",
+      ".doc",
+      ".docx",
+      ".xls",
+      ".xlsx",
+      ".ppt",
+      ".pptx"
+    ]
+  }
+}

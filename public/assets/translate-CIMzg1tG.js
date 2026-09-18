@@ -1,0 +1,1 @@
+var e=e=>Array.isArray(e)?e.filter(e=>typeof e==`string`):[];export{e as t};

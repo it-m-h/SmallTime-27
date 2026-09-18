@@ -1,0 +1,211 @@
+SmallTime 2027 – Lizenzbedingungen (Endbenutzer-Lizenzvertrag)
+=================================================================
+
+Stand: 18. September 2026
+
+Rechteinhaber und Lizenzgeber: IT-Master Heizmann, Schweiz (nachfolgend «Lizenzgeber»)
+Kontakt und Projektseite: https://github.com/it-m-h
+
+Copyright (c) 2026 IT-Master Heizmann. Alle Rechte vorbehalten.
+
+English summary: SmallTime 2027 is proprietary, commercial software. It is NOT open source.
+Private individuals may use it free of charge permanently for private, non-commercial purposes
+with up to two (2) active persons (free license, included). Companies, associations, non-profit
+and public organisations as well as self-employed persons always need a license key. The source code being visible in this
+repository does NOT grant any right to copy, modify or distribute it. The software is provided
+"as is" WITHOUT ANY WARRANTY, and all liability is excluded to the fullest extent permitted
+by law. The German text below is the only legally binding version.
+
+---------------------------------------------------------------------------------------------
+1. Gegenstand und Geltung
+---------------------------------------------------------------------------------------------
+
+1.1 Diese Lizenzbedingungen regeln die Nutzung der Software «SmallTime 2027» einschliesslich
+    aller Programmdateien, Updates, Dokumentationen, Vorlagen und Konvertierungswerkzeuge
+    (nachfolgend «Software»).
+1.2 Wer die Software herunterlädt, installiert, startet, einen Lizenzschlüssel eingibt oder
+    sie auf andere Weise nutzt (nachfolgend «Lizenznehmer»), anerkennt diese Bedingungen.
+    Wer nicht einverstanden ist, darf die Software nicht nutzen und muss sie löschen.
+1.3 Die Software richtet sich an Organisationen (Unternehmen, Vereine, Stiftungen,
+    gemeinnützige und nicht gewinnorientierte Organisationen, öffentliche Stellen) sowie an
+    Selbständigerwerbende (nachfolgend «Organisationen»). Privatpersonen dürfen die Software
+    ausschliesslich im Rahmen der Gratis-Lizenz nach Ziffer 4.2 nutzen.
+1.4 Abweichende Bedingungen des Lizenznehmers gelten nur, wenn der Lizenzgeber sie
+    schriftlich bestätigt hat.
+
+---------------------------------------------------------------------------------------------
+2. Eigentum und Urheberrecht
+---------------------------------------------------------------------------------------------
+
+2.1 Die Software ist urheberrechtlich geschützt. Sämtliche Rechte, insbesondere Urheber-,
+    Marken- und sonstige Schutzrechte, verbleiben vollständig beim Lizenzgeber. Das gilt auch
+    für die Vorgängerversion «SmallTime PHP», deren Rechte ebenfalls beim Lizenzgeber liegen.
+2.2 Die Software ist KEINE Open-Source-Software. Die Veröffentlichung der Programmdateien in
+    einem öffentlichen Repository (z. B. GitHub) dient ausschliesslich der Verteilung an
+    Lizenznehmer. Aus der Sichtbarkeit oder Abrufbarkeit des Codes entsteht kein Recht zur
+    Nutzung, Vervielfältigung, Bearbeitung oder Weitergabe.
+2.3 Mit der Software werden Bestandteile Dritter mitgeliefert (Open-Source-Bibliotheken).
+    Für diese gelten ausschliesslich deren eigene Lizenzen; sie sind in der Datei
+    THIRD-PARTY-LICENSES.md aufgeführt. Diese Lizenzbedingungen erweitern oder beschränken
+    die Rechte an diesen Bestandteilen nicht.
+
+---------------------------------------------------------------------------------------------
+3. Nutzungsrecht
+---------------------------------------------------------------------------------------------
+
+3.1 Mit einem gültigen Lizenzschlüssel (bzw. im Rahmen der Gratis-Lizenz nach Ziffer 4.2)
+    erhält der Lizenznehmer für die Dauer der Lizenz ein einfaches, nicht ausschliessliches,
+    nicht übertragbares und nicht unterlizenzierbares Recht, die Software für die eigene
+    Zeiterfassung zu installieren und zu nutzen, beschränkt auf die im Lizenzschlüssel festgelegte Domain und Anzahl aktiver
+    Personen.
+3.2 Erlaubt sind zusätzlich: Sicherungskopien für den eigenen Betrieb, Anpassungen über die
+    vorgesehenen Einstellungen, Konfigurationsdateien und die Datei custom.css.
+3.3 Nicht erlaubt sind ohne vorgängige schriftliche Zustimmung des Lizenzgebers insbesondere:
+    a) die Software zu verkaufen, zu vermieten, zu verleihen, weiterzugeben oder
+       unterzulizenzieren;
+    b) die Software Dritten als Dienstleistung zur Verfügung zu stellen (Hosting,
+       Software-as-a-Service), ausgenommen Betrieb durch einen vom Lizenznehmer beauftragten
+       Hoster ausschliesslich für den Lizenznehmer;
+    c) den Programmcode zu verändern, zu übersetzen, zurückzuentwickeln, zu dekompilieren
+       oder daraus abgeleitete Werke zu erstellen, soweit das Gesetz (insbesondere
+       Art. 21 URG) dies nicht zwingend erlaubt;
+    d) die Lizenzprüfung, Benutzerbeschränkung, Domainbindung oder Copyright-Hinweise zu
+       entfernen, zu umgehen oder unwirksam zu machen;
+    e) Lizenzschlüssel weiterzugeben oder für mehrere Installationen zu verwenden.
+3.4 Verstösse beenden das Nutzungsrecht sofort und ohne Kündigung. Weitergehende Ansprüche
+    des Lizenzgebers bleiben vorbehalten.
+
+---------------------------------------------------------------------------------------------
+4. Lizenzarten, Gebühren und Lizenzprüfung
+---------------------------------------------------------------------------------------------
+
+4.1 Lizenz für Organisationen: Organisationen im Sinne von Ziffer 1.3 benötigen für jede
+    Nutzung – unabhängig von der Anzahl Personen – einen Lizenzschlüssel des Lizenzgebers.
+    Die Lizenzgebühr richtet sich nach der jeweils gültigen Preisliste des Lizenzgebers
+    (Richtwert: CHF 2.00 pro aktiver Person und Monat, zuzüglich allfälliger
+    Mehrwertsteuer). Massgebend ist die Anzahl aktiver Personen in der Software. Für Vereine
+    und gemeinnützige Organisationen kann der Lizenzgeber nach eigenem Ermessen
+    Sonderkonditionen gewähren; ein Anspruch darauf besteht nicht. Preisänderungen gelten ab
+    der nächsten Verlängerung.
+4.2 Gratis-Lizenz für Privatpersonen: Natürliche Personen dürfen die Software für private,
+    nicht gewerbliche Zwecke (z. B. Zeiterfassung im eigenen Haushalt) mit bis zu zwei (2)
+    aktiven Personen pro Installation dauerhaft unentgeltlich nutzen. Die dafür nötige
+    Gratis-Lizenz ist nach der Installation bereits eingetragen. Für Organisationen gilt die
+    Gratis-Lizenz nicht, auch nicht bei zwei oder weniger Personen; nutzt eine Organisation
+    die Software ohne eigenen Lizenzschlüssel, schuldet sie die Lizenzgebühr nach Ziffer 4.1
+    ab Beginn der Nutzung. Auch für die Gratis-Lizenz gelten diese Bedingungen
+    vollumfänglich, insbesondere die Ziffern 5 und 6.
+4.2a Testlizenzen: Der Lizenzgeber kann zusätzlich befristete Testlizenzen abgeben und diese
+    jederzeit ändern oder beenden. Ein Anspruch auf eine Testlizenz besteht nicht.
+4.3 Die Software prüft den Lizenzschlüssel beim Start und danach periodisch über den
+    Lizenzserver des Lizenzgebers. Übermittelt werden nur der Lizenzschlüssel und die Domain
+    der Installation. Nach Ablauf oder bei ungültiger Lizenz schaltet die Software in einen
+    Nur-Lesen-Modus; die gespeicherten Daten bleiben erhalten und lesbar.
+4.4 Der Lizenzgeber übernimmt keine Gewähr für die ständige Erreichbarkeit des
+    Lizenzservers. Aus Unterbrüchen, Fehlprüfungen oder dem Nur-Lesen-Modus entstehen keine
+    Ansprüche gegenüber dem Lizenzgeber.
+4.5 Bezahlte Gebühren werden nicht zurückerstattet, auch nicht bei vorzeitiger Beendigung,
+    soweit das Gesetz nichts anderes zwingend vorschreibt.
+
+---------------------------------------------------------------------------------------------
+5. Keine Gewährleistung
+---------------------------------------------------------------------------------------------
+
+5.1 Die Software wird «wie besehen» und «wie verfügbar» («as is», «as available») zur
+    Verfügung gestellt, ohne jede ausdrückliche oder stillschweigende Zusicherung oder
+    Gewährleistung. Jede Gewährleistung ist, soweit gesetzlich zulässig, vollständig
+    wegbedungen; dies gilt insbesondere für Gewährleistungsansprüche nach Kauf-, Werk- oder
+    Mietvertragsrecht (u. a. Art. 197 ff., 259a ff. und 367 ff. OR).
+5.2 Der Lizenzgeber sichert insbesondere nicht zu, dass die Software fehlerfrei,
+    unterbruchsfrei, sicher, virenfrei oder mit bestimmter Hard- und Software kompatibel ist,
+    dass sie bestimmte Anforderungen erfüllt oder dass Fehler behoben werden.
+5.3 Der Lizenzgeber sichert nicht zu, dass Berechnungen (u. a. Sollzeit, Saldo, Überstunden,
+    Ferien, Zuschläge, Pausen, Feiertage, Absenzen, Auszahlungen), Auswertungen, Exporte,
+    PDF-Rapporte oder Konvertierungen aus Vorgängerversionen richtig oder vollständig sind oder
+    gesetzlichen, vertraglichen oder gesamtarbeitsvertraglichen Vorgaben entsprechen.
+5.4 Updates, Support, Wartung oder Fehlerbehebungen schuldet der Lizenzgeber nur, wenn dies
+    schriftlich separat vereinbart wurde.
+
+---------------------------------------------------------------------------------------------
+6. Haftungsausschluss
+---------------------------------------------------------------------------------------------
+
+6.1 Die Haftung des Lizenzgebers ist – gleich aus welchem Rechtsgrund (Vertrag, unerlaubte
+    Handlung, Gefährdung oder anderes) – im grösstmöglichen gesetzlich zulässigen Umfang
+    ausgeschlossen. Ausgeschlossen ist insbesondere jede Haftung für leichte und
+    mittelschwere Fahrlässigkeit.
+6.2 Ausgeschlossen ist insbesondere jede Haftung für:
+    a) direkte, indirekte und Folgeschäden, entgangenen Gewinn, entgangene Einsparungen,
+       Betriebsunterbruch, Produktionsausfall und Ansprüche Dritter;
+    b) Verlust, Beschädigung, Verfälschung oder Offenlegung von Daten, auch durch fehlende
+       oder fehlerhafte Datensicherungen, Updates, Migrationen oder Konvertierungen;
+    c) falsche oder unvollständige Berechnungen, Lohn- und Ferienabrechnungen, Auszahlungen,
+       Rapporte und Auswertungen sowie deren Folgen gegenüber Mitarbeitenden, Behörden,
+       Versicherungen oder Dritten;
+    d) die Einhaltung gesetzlicher Pflichten des Lizenznehmers, namentlich aus Arbeitsgesetz,
+       Arbeitszeit- und Aufzeichnungsvorschriften (u. a. ArG, ArGV 1), Obligationenrecht,
+       Datenschutzrecht (DSG, DSGVO), Steuer- und Sozialversicherungsrecht;
+    e) Sicherheitsvorfälle, unbefugte Zugriffe, Schadsoftware, Angriffe Dritter sowie Fehler
+       in Betriebssystem, Hosting, Netzwerk, Browsern, Datenbanken oder Bestandteilen Dritter;
+    f) Unterbrüche oder Fehlfunktionen des Lizenzservers, gesperrte Konten, den Nur-Lesen-
+       Modus sowie Folgen einer Beendigung der Lizenz;
+    g) Handlungen und Unterlassungen von Hilfspersonen des Lizenzgebers (Art. 101 Abs. 2 OR);
+    h) Schäden durch Installation, Betrieb, Konfiguration oder Veränderung der Software durch
+       den Lizenznehmer oder Dritte.
+6.3 Soweit eine Haftung trotz dieser Bestimmungen zwingend besteht, ist sie auf den Betrag der
+    Lizenzgebühren begrenzt, die der Lizenznehmer in den zwölf Monaten vor dem schädigenden
+    Ereignis tatsächlich bezahlt hat. Bei der Gratis-Lizenz und bei Testlizenzen haftet der
+    Lizenzgeber nur, soweit eine Haftung von Gesetzes wegen zwingend ist (vgl. Art. 248 OR).
+6.4 Vorbehalten bleibt die zwingende Haftung für absichtlich oder grobfahrlässig verursachte
+    Schäden (Art. 100 Abs. 1 OR) sowie die zwingende Haftung nach dem Produkthaftpflicht-
+    gesetz. Diese Ausnahmen sind eng auszulegen.
+6.5 Ansprüche gegen den Lizenzgeber sind innert 30 Tagen nach Kenntnis des Schadens schriftlich
+    anzuzeigen und verjähren – soweit gesetzlich zulässig – ein Jahr nach dem schädigenden
+    Ereignis.
+
+---------------------------------------------------------------------------------------------
+7. Pflichten des Lizenznehmers
+---------------------------------------------------------------------------------------------
+
+7.1 Der Lizenznehmer ist allein verantwortlich für Installation, Betrieb, Sicherheit,
+    Aktualisierung, Zugangsdaten und die regelmässige, getrennt aufbewahrte Sicherung aller
+    Daten (Datenbank, Uploads, Dokumente, Konfiguration). Die in der Software enthaltene
+    wöchentliche Datenbankkopie ersetzt keine vollständige Datensicherung.
+7.2 Der Lizenznehmer prüft sämtliche Ergebnisse der Software (insbesondere Saldi, Ferien,
+    Auszahlungen und Rapporte) vor ihrer Verwendung selbst und bleibt für die Richtigkeit
+    der Arbeitszeitaufzeichnung und Lohnabrechnung allein verantwortlich.
+7.3 Der Lizenznehmer ist Verantwortlicher im Sinne des Datenschutzrechts für alle in der
+    Software bearbeiteten Personendaten. Der Lizenzgeber hat keinen Zugriff auf diese Daten
+    und bearbeitet sie nicht.
+7.4 Der Lizenznehmer stellt den Lizenzgeber von allen Ansprüchen Dritter (insbesondere von
+    Mitarbeitenden, Behörden und Kunden) frei, die im Zusammenhang mit der Nutzung der
+    Software durch den Lizenznehmer geltend gemacht werden, einschliesslich angemessener
+    Anwalts- und Verfahrenskosten.
+
+---------------------------------------------------------------------------------------------
+8. Dauer und Beendigung
+---------------------------------------------------------------------------------------------
+
+8.1 Das Nutzungsrecht gilt für die Laufzeit des Lizenzschlüssels. Ohne Verlängerung endet es
+    automatisch mit deren Ablauf.
+8.2 Der Lizenzgeber kann das Nutzungsrecht bei Verstössen gegen diese Bedingungen oder bei
+    Zahlungsverzug fristlos beenden.
+8.3 Nach Beendigung darf die Software nur noch im Nur-Lesen-Modus verwendet werden, um die
+    eigenen Daten einzusehen und zu exportieren. Die Ziffern 2, 5, 6, 7 und 9 gelten über das
+    Ende der Lizenz hinaus.
+
+---------------------------------------------------------------------------------------------
+9. Schlussbestimmungen
+---------------------------------------------------------------------------------------------
+
+9.1 Der Lizenzgeber kann diese Lizenzbedingungen jederzeit ändern. Die geänderte Fassung gilt
+    ab Veröffentlichung für neue Versionen und Lizenzverlängerungen.
+9.2 Sollte eine Bestimmung ganz oder teilweise unwirksam sein, bleibt der Rest gültig. An die
+    Stelle der unwirksamen Bestimmung tritt diejenige wirksame Regelung, die dem
+    wirtschaftlichen Zweck – insbesondere dem grösstmöglichen Haftungsausschluss – am
+    nächsten kommt.
+9.3 Es gilt ausschliesslich schweizerisches Recht unter Ausschluss des Kollisionsrechts und
+    des Übereinkommens der Vereinten Nationen über Verträge über den internationalen
+    Warenkauf (Wiener Kaufrecht, CISG).
+9.4 Ausschliesslicher Gerichtsstand ist der Sitz des Lizenzgebers. Der Lizenzgeber kann den
+    Lizenznehmer auch an dessen Sitz belangen.

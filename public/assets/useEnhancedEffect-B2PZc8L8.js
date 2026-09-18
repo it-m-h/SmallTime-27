@@ -1,0 +1,1 @@
+import{h as e}from"./createSimplePaletteValueFilter-CGOTKmc2.js";var t=e;export{t};

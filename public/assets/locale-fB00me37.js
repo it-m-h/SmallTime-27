@@ -1,0 +1,1 @@
+var e={de:`de-DE`,en:`en-US`,fr:`fr-FR`,it:`it-IT`},t=t=>e[t??`de`]??e.de,n=(e,n,r)=>new Intl.DateTimeFormat(t(n),r).format(new Date(e));export{n as t};

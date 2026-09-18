@@ -1,0 +1,8 @@
+# Nie veroeffentlichen: Geheimnisse und Daten der Installation
+.env
+data/
+uploads/
+convert/
+node_modules/
+*.sqlite
+*.sqlite-*
