@@ -170,7 +170,9 @@ by law. The German text below is the only legally binding version.
 7.1 Der Lizenznehmer ist allein verantwortlich für Installation, Betrieb, Sicherheit,
     Aktualisierung, Zugangsdaten und die regelmässige, getrennt aufbewahrte Sicherung aller
     Daten (Datenbank, Uploads, Dokumente, Konfiguration). Die in der Software enthaltene
-    wöchentliche Datenbankkopie ersetzt keine vollständige Datensicherung.
+    automatische Datenbankkopie ersetzt keine vollständige Datensicherung. Die Software
+    löscht ältere automatische Kopien gemäss ihrer Aufbewahrungsregel selbständig; für
+    dadurch nicht mehr vorhandene Kopien wird keine Haftung übernommen.
 7.2 Der Lizenznehmer prüft sämtliche Ergebnisse der Software (insbesondere Saldi, Ferien,
     Auszahlungen und Rapporte) vor ihrer Verwendung selbst und bleibt für die Richtigkeit
     der Arbeitszeitaufzeichnung und Lohnabrechnung allein verantwortlich.

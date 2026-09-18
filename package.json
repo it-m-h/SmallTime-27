@@ -1,6 +1,6 @@
 {
   "name": "smalltime",
-  "version": "0.9.5-beta",
+  "version": "0.9.6-beta",
   "private": true,
   "type": "module",
   "main": "dist/server.js",

@@ -2,7 +2,7 @@
 
 **Die Zeiterfassung für kleine und mittlere Betriebe** – einfach im Browser, auf deinem eigenen Server, in vier Sprachen. Nachfolger von SmallTime PHP.
 
-Version **0.9.5-beta** · [Anleitungen im Wiki](https://github.com/it-m-h/SmallTime-27/wiki) · [Lizenz](LICENSE)
+Version **0.9.6-beta** · [Was ist neu?](CHANGELOG.md) · [Anleitungen im Wiki](https://github.com/it-m-h/SmallTime-27/wiki) · [Lizenz](LICENSE)
 
 ![SmallTime 2027: Übersicht mit Stempelknopf, Saldo, Ferien und Anwesenheit](images/dashboard.png)
 
@@ -106,7 +106,7 @@ Version **0.9.5-beta** · [Anleitungen im Wiki](https://github.com/it-m-h/SmallT
 
 - **Deine Daten bleiben bei dir**: SmallTime läuft auf deinem eigenen Server oder Hosting.
 - **Sichere Anmeldung**: Startpasswort muss geändert werden, **Kontosperre nach 30 Fehlversuchen**, Entsperren durch den Admin.
-- **Wöchentliche automatische Kopie der Datenbank.**
+- **Tägliche automatische Kopie der Datenbank**, alte Kopien werden automatisch aufgeräumt (7 Tage, 4 Wochen, 4 Quartale, danach eine pro Jahr).
 - Firmenname im Kopf der Seite, eigenes Aussehen über `custom.css`, **hell/dunkel**, Deutsch, Englisch, Französisch und Italienisch.
 - Eigene Inhaltsseiten (z. B. Impressum, Datenschutz) direkt im Browser bearbeiten.
 
